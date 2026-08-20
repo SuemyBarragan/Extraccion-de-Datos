@@ -1,0 +1,678 @@
+,BDC ,Fecha,Nombre Cliente ,Telefono ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado,¿Por que no ha visitado la agencia?,¿Por que no hay solicitud de credito?,¿Por que no hubo prueba de manejo ?,¿Por que no hubo proceso wow?,¿Por que se asigno antes de vistar piso?
+0,Saul ,2026-06-01,Guillermo ,No registrado,Finalizado ,0.9,1.0,0.0,0.0,Nancy,"Ya visito la Agencia  el dia jueves 17, interesado en GN8 PHEV ","Pide arrendamiento, unicamente se esta en espera de contacto con el contador, posibilidad de compra 90%","Si, hizo prueba de manejo ","Si recibio procesos wow, estuvo en la agencia mas de 3hrs ","No, se espero a que visitara la agencia para ser asignado "
+1,Saul ,2026-06-01,Roberto ,No registrado,Finalizado ,0.4,0.0,0.0,0.0,Victor ,Ya visito la Agencia  el dia 3 de abril ,Por que primero queria manejar las unidad ,No habia unidad GS8 HEV para prueba de manejo ,"Si recibio procesos wow, sin embargo no quizo nada de lo que se le ofrecio como amenidad ",Se asigno hasta que visitara Piso 
+2,Saul ,2026-06-01,Irving ,No registrado,Finalizado ,0.85,0.0,0.0,0.0,Alan ,Ya visito la agencia el dia 21 de abril ,"Firmo solicitud, sin embargo despues comento que seria contado solo que venta su auto, ya esta en proceso de venta ",Por que no habia unidad para prueba de manejo ,"Si se realizo el proceso wow, los clientes se quedaron hasta las 9:00 PM",Se asigno hasta que visitara Piso 
+3,Saul ,2026-06-01,Oswaldo ,No registrado,Venta ,0.9,0.0,0.0,1.0,Mauricio ,El cliente vive en Tabasco Villahermosa,Sera compra de contado,"Ya la manejo en Villahermosa, sin embargo por promocion y disponibilidad la comprara con nosotros","Las veces que se le ha marcado, agradece mucho la atencion por BDC y por el seguimiento continuo","Necesitabamos sacar el apartado, por eso se asigno antes, quedo de depositar el 23 de abril "
+4,Saul ,2026-06-01,Rodrigo ,No registrado,Finalizado ,0.9,1.0,0.0,0.0,Mauricio ,"Visito la agencia el mes pasado, y nos visita nuevamente el 23 de abril ",Hoy visita nuevamente la agencia y se firma solicitud ,"La primera vez que nos visito, realizo PDM",Si recibio el proceso wow la primera vez que nos visito ,"Se asigno hasta que visitara Piso  la primera vez, y se da nuevamnete el seguimiento con ese asesor "
+5,Saul ,2026-06-01,Antonio,No registrado,Activo ,0.85,1.0,1.0,0.0,Mauricio ,Visito la agencia el dia 13 de abril,Si hubo solicitud de credito ,Si realizo prueba de manejo ,"Lo resivio por parte del asesor, ya que el dia domingo la Hosstes descansa ",Se asigno hasta que visitara Piso 
+6,Saul ,2026-06-01,Juan Carlos,No registrado,Finalizado ,0.2,0.0,0.0,0.0,Ricardo ,"Se programo la visita dos dias, pero nunca asistio ",Comento que firmaba en cuando visitara la agencia ,No visito la agencia ,El el proceso de BDC siempre hubo la atencion adecuada y seguimiento ,Se asgino antes por recomendacion de Gerencia de ventas 
+7,Saul ,2026-06-01,Jose Alfredo ,No registrado,Finalizado ,0.5,1.0,0.0,0.0,Mauricio ,Visito la agencia el dia 13 de abril,Se le compartio cotizacion de arrendamiento sin embargo comenta que saldria del estado y posteriormente se comunicaria ,Se realizo PDM en EMkOO HEV,Si hubo por parte del asesor,Se asigno hasta que visitara Piso 
+8,Saul ,2026-06-01,Jacinto ,No registrado,Finalizado ,0.8,0.0,0.0,0.0,Nancy,No ha visitado la agencia por temas de trabajo ,"Se esta trabajando en ello, sin embargo el cliente tarda en responder",Por que no ha visitado la agencia ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas 
+9,Saul ,2026-06-01,Felipe ,No registrado,Finalizado ,0.8,1.0,0.0,0.0,Alan ,Se le complicaba asitir sin embargo se le llevo la unidad a su casa,Por que comenta que lo esta platicando con su esposa y da respuesta esta semana ,Si hubo prueba de manejo a domicilio ,"Si lo hubo por parte dell asesor, quedo muy contento ",Se asgino antes por recomendacion de Gerencia de ventas
+10,Saul ,2026-06-01,Luz Mercedes,No registrado,Venta ,1.0,1.0,1.0,1.0,Mauricio ,Si visito la agencia ,Si hubo solicitud de credito ,Si realizo prueba de manejo ,Si  recibio el proceso wow,Se asigno hasta que visitara Piso 
+11,Antonio,2026-06-01,Enrique,No registrado,Finalizado ,0.8,1.0,1.0,0.0,Alan ,Cita efectiva,capacidad de pago,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+12,Saul ,2026-06-01,Esteban ,No registrado,Finalizado ,0.6,0.0,0.0,0.0,Aurelio ,No ha visitado la agencia por que primero queria saber estatus de su credito ,"El cliente esta en toda la disposicion de  compartir papeles, pero se asigno a asesor y el lead dejo de dar respuesta ",No concreto cita efectiva el vendedor ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas
+13,Saul ,2026-06-01,Ramon ,No registrado,Finalizado ,0.9,1.0,1.0,0.0,Eduardo ,Ya la visito anteriormente sin embargo este mes aun no ,Hay credito autorizado ,"Ya hizo prueba de manejo, en mes anterior ",El cliente esta muy satisfecho con la atencion por parte de BDC y APV,Se asigno hasta visita en Plaza angelopolis 
+14,Saul ,2026-06-01,Jose de Jesus ,No registrado,Finalizado ,0.6,1.0,0.0,0.0,Alan ,Ya visito la agencia,El apv comenta que no tiene forma de demostrat ingresos ,No quizo realizar su prueba de manejo ,Se realizo el proceso wow por parte del asesor ,Se asigno hasta que visitara Piso 
+15,Saul ,2026-06-01,Mugdel Janer Morales,No registrado,Venta ,0.8,0.0,1.0,0.0,Victor ,Ya  visito la agencia,Esta en analisis,"No tenia tiempo, comenta tener prisa",Recibio la atencion,Se asigna en la visita
+16,Antonio,2026-06-01,Carlos Alberto Rios,No registrado,Activo ,0.8,0.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ingresan por Mstar,No trajo licencia,Recibio la atencion,Se asigna en la visita
+17,Antonio,2026-06-01,Vicente Cortes  ,No registrado,Finalizado ,0.6,1.0,0.0,0.0,Alan ,Ya visito la agencia,Comento mandar papeles y dejo de contestar,No respondió,No respondió,No respondió
+18,Antonio,2026-06-01,Angel  ,No registrado,Venta ,1.0,1.0,1.0,1.0,pedro,ya visito la agencia,compro de contado,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+19,Antonio,2026-06-01,Jorge Luis Nunez ,No registrado,Activo ,0.8,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,Primero quiere que la vea su esposa,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+20,Antonio,2026-06-01,Mercy,No registrado,Finalizado ,0.2,1.0,0.0,0.0,pedro,ya visito la agencia,"No quizo, solo queria boletos del cine",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+21,Antonio,2026-06-01,Antonio Rodriguez,No registrado,Activo ,0.8,1.0,0.0,0.0,Alan ,ya visito la agencia,"ya ingreso, le faltan mas estados de cuenta",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+22,Antonio,2026-06-01,Juan Colotl  ,No registrado,Activo ,0.7,0.0,1.0,0.0,Laura,ya visito la agencia,Ya se ingreso esta en analisis,Se le ofrecio pero no quizo,Recibio la atencion,Se asigna en la visita
+23,Antonio,2026-06-01,Samuel Salamanca,No registrado,Acitvo ,0.8,0.0,0.0,0.0,pedro,ya visito la agencia,Quizo conocer primero la unidad,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+24,Antonio,2026-06-01,Christoph Vega,No registrado,Activo ,0.8,0.0,0.0,0.0,Mauricio ,ya visito la agencia,"solo vio la unidad, su bb estubo desinquieta decidieron retirarse",su bb estubo desinquieta decidieron retirarse,Recibio la atencion,Se asigna en la visita
+25,Saul ,2026-06-01,Jose Campos ,No registrado,Activo ,0.7,0.0,1.0,0.0,Ricardo ,Ya visito la agencia el dia 24 de abril ,"Es arrendamiento, y esta solo en decidir la unidad ","La unidad no estaba en la agencia, y no habia GS4 habilitada para PDM",Si recibio la atencion ,Por indicaciones de gerencia de ventas
+26,Saul ,2026-06-01,Roberto Luis Pacheco,No registrado,Activo ,0.4,0.0,0.0,0.0,Pedro,"Ya visito la agencia, llego desde Oaxaca ",Comenta que la unidad ,Le gusto la unidad pero comenta que no es para el ,Recibio la atencion ,Se asigno hasta que visitara Piso 
+27,Antonio,2026-06-01,Carlos  Texis  Rodriguez  ,No registrado,Venta ,1.0,1.0,1.0,1.0,Alan ,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+28,Antonio,2026-06-01,Javier Pazos,No registrado,Acitvo ,0.7,1.0,1.0,0.0,Eduardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,No respondió
+29,Antonio,2026-06-01,Roberto Portilla,No registrado,Activo ,0.7,0.0,0.0,0.0,Victor ,Ya visito la agencia,No respondió,No respondió,No respondió,Se asigna en la visita
+30,Antonio ,2026-06-01,Julian marin castillo,No registrado,Activo ,0.8,1.0,0.0,0.0,Aurelio ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,No respondió,No respondió
+31,Citas efectivas,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,Desconocido,Desconocido,Desconocido,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+32,Saul ,2026-06-01,13,Toño,11,0.8,9.0,Desconocido,Desconocido,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+33,MAYO,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+34,Antonio,2026-06-01,Edgar Becerril,No registrado,Venta,0.8,1.0,1.0,1.0,Ricardo ,Ya visito la agencia,"No tenia tiempo, quedo de mandar la informacion",Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+35,Antonio,2026-06-01,Quetzalli Fernanda,No registrado,Acitvo ,0.8,1.0,1.0,0.0,Ricardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,No respondió
+36,Saul ,2026-06-01,Antonio ,No registrado,Finalizado,0.9,1.0,0.0,Desconocido,Mauricio ,Visito la Agencia el dia 1 de Mayo ,Por que primero quiere vender su sentra,Realizo PDM en Emkoo,Si hubo por parte del asesor,Se asigna en la visita
+37,Saul ,2026-06-01,Estela Hernandez,No registrado,Finalizado ,0.7,1.0,1.0,0.0,Mauricio ,Visito Custom 2 veces para ver emzoom ,Ya lleno la solicitud de credito ,Ya se realizo prueba de manejo en Apizaco ,Recibio la atencion ,Ocupa asesoria tecnica y visita en tlaxcala 
+38,Saul ,2026-06-01,Arturo Sanchez ,No registrado,Finalizado ,0.9,1.0,1.0,0.0,Referido Pablo,Nos visita el dia de hoy ,lleno papeles para credito ,Si hubo prueba de manejo ,Recibio la atencion ,Lead referido pero tratado en Digital
+39,Antonio,2026-06-01,Anselmo Villarreal Rodas,No registrado,Finalizado,0.7,1.0,1.0,0.0,Eduardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+40,Antonio,2026-06-01,Andres Fernandez Martinez ,No registrado,Finalizado,0.9,1.0,0.0,0.0,Eduardo ,Lo visitamos en su casa,Ya se ingreso solicitud,Espera GS8 H,No respondió,No respondió
+41,Saul ,2026-06-01,Ulises Alejo ,No registrado,Finalizado ,0.8,1.0,0.0,0.0,Nancy,Ya visito la agencia el dia domingo 11,Ya se paso a precalificar ,Si hizo prueba de manejo y le encanto la unidad ,Recibio la atencion ,Se asigno hasta el momento de la visita 
+42,Saul ,2026-06-01,Jose alberto ,No registrado,Finalizado ,0.7,0.0,0.0,0.0,Aurelio ,Ya nos visito el dia 12 de mayo ,No quizo dejar INE pero asegura que compra ,Si realizo prueba de manejo ,Recibio la atencion,Se asigno hasta el momento de la visita 
+43,Saul ,2026-06-01,Adilene Ruiz,No registrado,Venta,0.9,1.0,1.0,1.0,Mauricio ,Ya nos visito el dia 13 de mayo,Ya hay solicitud aprobada por Mstart ,Si realizo prueba de manejo ,Recibio la atencion,Se asgino hasta la visita en piso 
+44,Saul ,2026-06-01,Gerardo garcia ,No registrado,Finalizado,0.6,1.0,0.0,Desconocido,Eduardo ,Ya nos visito el dia 13 de mayo ,Pide que su mensualidad no exceda los 6mil ,Si hubo prueba de manejo,"recibio la atencion, se fue muy contento ",Se asigno hasta el momento de la visita 
+45,Saul ,2026-06-01,Erick Calderón,No registrado,Finalizado ,0.8,1.0,0.0,0.0,Ricardo ,Ya nos visito el dia  14 de mayo,Es arrendamiento y se esta en espera de contacto,No habia unidad GS8 disponible en la agencia ,Recibio la atencion ,Se asgino hasta la visita en piso 
+46,Saul ,2026-06-01,Jose Luis,No registrado,Venta,0.95,1.0,1.0,1.0,Victor ,Ya nos visito el dia 17 de mayo,No quiso dejar solicitud firmada,Si hubo prueba de manejo ,Si recibio la atencion ,Se asigna hasta la visita a piso
+47,Saul ,2026-06-01,Cesar  Aguilar,No registrado,Venta,0.8,1.0,1.0,1.0,Victor ,El cliente es de Veracruz ,Ya hay credito aprobado,El cliente es de Verazruz,ha recibido la atencion correcta ,Para seguimiento a distancia por el Apv
+48,Saul ,2026-06-01,Christian ,No registrado,Venta,0.8,1.0,0.0,0.0,Aurelio ,"Ya nos visito, y comenta que nos visitara nuevamnete el dia sabado 24 de mayo",Sera compra de contado ,Se le incistio pero no quizo ,Si recibio la atencion ,Se asigna hasta la visita a piso
+49,Antonio,2026-06-01,Diego Cabrejiz,No registrado,Activo,0.8,1.0,0.0,1.0,Nancy,Ya visito la agencia,Sera compra de contado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+50,Antonio,2026-06-01,Sergio Osorno,No registrado,Acitvo ,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+51,Antonio,2026-06-01,Jossmarr Csm Gil,No registrado,Activo,0.7,1.0,1.0,0.0,Pedro/Eduardo,Ya visito la agencia,Quiere que vea la unidad su esposa,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita
+52,Saul ,2026-06-01,Pedro Bello,No registrado,Venta,0.8,1.0,1.0,1.0,CASA ,"Visito la agencia y no habia asesor lo atiende pablo, lead del mes de abril ",ya hay solicitud aprobada,Si realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita
+53,Antonio,2026-06-01,Herrera Erick/Maria del Carmen,No registrado,Venta,0.75,1.0,1.0,1.0,Pedro,ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+54,Saul ,2026-06-01,David,No registrado,Acrivo,0.9,1.0,1.0,0.0,Aurelio ,Nos visito el dia 27 de Mayo,Ya dejo todo para solicitud ,Realizo PDM en Emkoo,Recibio la atencion,Se asigna en la visita
+55,Antonio,2026-06-01,Lia Vera,No registrado,Venta,0.85,1.0,1.0,1.0,Victor ,Ya visito la agencia,ya tiene credito autorizado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+56,Antonio,2026-06-01,Francisco Mier,No registrado,Activo,0.7,1.0,0.0,0.0,Victor ,Ya visito la agencia,No respondió,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita
+57,Antonio,2026-06-01,Ricardo Pedraza Perez  ,No registrado,Activo,0.9,1.0,1.0,1.0,Aurelio ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita
+58,Antonio/Saul ,2026-06-01,Clementina ,No registrado,Venta,0.85,1.0,1.0,1.0,Ricardo ,Lead de base de datos ,Ya ingreso y se autorizo,Si hubo PDM ,recibio la atencion ,Lead de base de datos 
+59,Nombre Desconocido,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+60,JUNIO,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+61,Saul ,2026-06-01,Aldo Segura ,No registrado,Finalizado ,0.8,1.0,1.0,0.0,Ricardo ,Nos visito el dia 03 de Mayo,Si hubo solicitud sin embargo salio rechazada,Si hay prueba de manejo ,Recibio la atenciao,Se asigna en la visita
+62,Antonio,2026-06-01,Vladimir,No registrado,activo,0.7,1.0,0.0,0.0,Pedro,Ya visito la agencia,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+63,Antonio ,2026-06-01,Daniel,No registrado,Acitvo ,0.8,1.0,0.0,0.0,Sergio Raymundo,Ya visito la agencia Custom,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+64,Saul,2026-06-01,Francisco Santander ,No registrado,Finalizado,0.9,1.0,0.0,0.0,Alan,Nos visito el dia 08 de junio ,Pretende compra de contado ,Realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita
+65,Saul ,2026-06-01,Dulce Elizabeth ,No registrado,Activo ,0.9,1.0,1.0,1.0,Pedro,Nos visito el dia viernes 13 de junio ,Ya esta en analisis ,Si hubo prueba de manejo,Recibio la atencion ,Se asgino hasta la visita en piso 
+66,Saul ,2026-06-01,Fernando ,No registrado,Venta ,0.9,1.0,1.0,1.0,Alan ,"Nos visito en plaza, ya deposito apartado ",Ya se esta trabajando ,En proceso,Recibio la atenciao,Se asigna por seguimiento
+67,Antonio,2026-06-01,Sergio Figueroa,No registrado,Venta ,0.85,1.0,1.0,1.0,Sergio Raymundo,Ya visito la agencia,ya esta aprobada,Ya realizo prueba de manejo,Recibio la atencion,Se reasigno por seguimiento
+68,Antonio,2026-06-01,Osvaldo Peña ,No registrado,Acitvo ,0.75,1.0,1.0,0.0,Ricardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+69,Saul ,2026-06-01,Aldo Perz ,No registrado,Activo ,0.8,0.0,0.0,0.0,Mauricio ,Ya nos visito el dia sabado 14 de junio ,Ya tiene credito aprobado en dorada ,Ya realizo prueba de manejo,Recibio la atencios ,Se asigna en la visita
+70,Saul ,2026-06-01,David ,No registrado,Venta ,0.9,1.0,0.0,1.0,Pedro ,Ya nnos visito su esposa el dia 17 ,El esposo viene el viernes y nos deja papeles ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+71,Saul ,2026-06-01,Manuel Portillo,No registrado,Finalizado ,0.7,0.0,0.0,0.0,Gerencia ,Nos visito el dia 16 de junio,Ya hay solicitud de credito ,Si hubo prueba de manejo,Recibio la atenciao,Se asgino hasta la visita en piso 
+72,Antonio,2026-06-01,Jaime Juarez,No registrado,Acitvo ,0.05,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+73,Antonio,2026-06-01,Pedro Jesus  Pestana Castillo ,No registrado,Acitvo ,0.7,1.0,1.0,0.0,Victor ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+74,Antonio,2026-06-01,Maximo Fernandez/Fabiana,No registrado,Venta ,0.9,1.0,1.0,1.0,Pedro ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+75,Saul ,2026-06-01,Anabell,No registrado,Venta,0.9,1.0,1.0,1.0,Pedro,Lead de mes atras ,Ya esta en proceso,Ya se realizo prueba de manejo,Recibio la atenciao,Se asigna por que se conocio en plaza 
+76,Antonio,2026-06-01,Benjamin/ Element empresa,No registrado,Venta ,0.9,1.0,1.0,1.0,Alan,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+77,Antonio,2026-06-01,Luis Carlos Gomez ,No registrado,Activo,0.5,1.0,1.0,0.0,Marcos Coca,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+78,Antonio,2026-06-01,Jesus Morales,No registrado,Venta ,0.7,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+79,Saul ,2026-06-01,Rossana ,No registrado,Finalizado ,0.8,1.0,1.0,0.0,Miguel,Ya nos visito el dia 23 de Junio ,Ya esta pre-aprobado ,Ya realizo PDM,Recibio la atencion,Se asigna en la visita 
+80,Antonio ,2026-06-01,Parmenides Ortiz,No registrado,Acitvo ,0.7,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+81,Antonio,2026-06-01,Miguel Angel,No registrado,Acitvo ,0.7,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+82,Saul,2026-06-01,Jose Miguel,No registrado,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya nos visito el dia 27 de junio,En proceso,Ya realizo la prueba de manejo ,Si recibio la atencion ,se asigno hasta la visita de piso 
+83,Antonio,2026-06-01,Olivia rascon sosa,No registrado,Acitvo ,0.6,1.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+84,Antonio,2026-06-01,Mireya Eugenia Ceron,No registrado,Acitvo ,0.6,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+85,Antonio,2026-06-01,Arturo Alcantar,No registrado,Acitvo ,0.7,1.0,1.0,0.0,Aurelio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+86,Saul ,2026-06-01,Hugo,No registrado,Activo ,0.6,0.0,0.0,0.0,Alan ,Ya nos visito el dia 30 de junio ,Ya esta en proceso ,Ya se realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+87,Nombre Desconocido,2026-06-01,Julio,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+88,Saul ,2026-06-01,Hugo Martines ,No registrado,Activo ,0.6,1.0,1.0,Desconocido,Alan,Ya nos visito el dia 01 de Juio,Esta en proceso por ensueño,Si realizo la prueba de manejo ,Recibio la atencion,Se asigna en la visita
+89,Antonio,2026-06-01,Heriberto Solis Perez,No registrado,Activo,0.6,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+90,Antonio,2026-06-01,Julio Jimenez,No registrado,Activo,0.7,1.0,1.0,1.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+91,Antonio,2026-06-01,Edgar Corte ,No registrado,Activo,0.7,0.0,0.0,0.0,Carlos Texis,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+92,Saul ,2026-06-01,Grabiel Zamora ,No registrado,Activo ,0.9,1.0,1.0,0.0,Mauricio ,Ya nos visito el dia 05/julio,Esta en proceso,Esta en proceso,Esta en proceso,Se  asigna en visita
+93,Saul ,2026-06-01,Ivan ,No registrado,Activo,0.8,0.0,0.0,0.0,Nos vista lunes 7,No respondió,No respondió,No respondió,No respondió,No respondió
+94,Saul,2026-06-01,Anthony,No registrado,Activo,0.8,1.0,1.0,0.0,Nos visita el sabado 5,Ya nos visito ,Ya esta la solicitud ,Ya realizo la prueba de manejo ,Esta en proceso,No respondió
+95,Antonio,2026-06-01,Ernesto Vega,No registrado,Activo,0.8,1.0,1.0,1.0,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+96,Saul ,2026-06-01,Hector Cortes ,No registrado,Activo ,0.85,1.0,0.0,0.0,Alan Gonzalez,Ya nos visito,Esta en proceso, Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigna en la visita 
+97,Antonio,2026-06-01,Gabriel,No registrado,Activo,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+98,Saul ,2026-06-01,Fausto,No registrado,Activo ,0.8,1.0,1.0,0.0,Ricardo ,Ya nos visito el dia 11 de Julio ,Ya esta en proceso ,Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigno en la visita 
+99,Antonio,2026-06-01,Javer Moreno,No registrado,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Llego al cierre del dia,Recibio la atencion,Se asigna en la visita
+100,Saul,2026-06-01,Roberto Paz Rojano ,No registrado,Activo,0.8,0.0,0.0,0.0,Aurelio ,Ya nos visito el dia 15 Julio ,Ya esta en proceso ,El cliente comenta que no queria manejar la unidad ,Recibio la atencion ,Se asigna en la visita
+101,Saul ,2026-06-01,Alfonso ,No registrado,Activo,0.8,0.0,0.0,0.0,Pedro Antonio ,Ya nos visito el dia 16 de julio ,Ya esta en proceso ,Si hubo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+102,Antonio,2026-06-01,Antonio/Talia,No registrado,Acitvo ,0.8,0.0,1.0,1.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+103,Antonio,2026-06-01,Marisol Luna,No registrado,Acitvo ,0.8,1.0,1.0,0.0,Aurelio ,Ya visito la agencia,Autorizada,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+104,Saul ,2026-06-01,Erick ,No registrado,Finalizado ,0.7,1.0,1.0,0.0,Aurelio ,Ya visito la agencia ,El credito fue rachazado ,realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita 
+105,Saul,2026-06-01,Karla ,No registrado,Activo ,0.8,0.0,0.0,0.0,Ignacio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita 
+106,Antonio,2026-06-01,Jose Hermenegildo ,No registrado,Activo,0.8,1.0,1.0,0.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+107,Antonio,2026-06-01,Jossmarr  Csm Gil ,No registrado,Activo,0.9,1.0,1.0,1.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+108,Saul ,2026-06-01,Guillermina ,No registrado,Activo ,0.9,1.0,1.0,0.0,Victor ,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+109,Antonio,2026-06-01,Lorenzo Coyotl ,No registrado,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+110,Antonio,2026-06-01,Patricia Rios,No registrado,Activo,0.6,1.0,0.0,0.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+111,Antonio,2026-06-01,Armando Alvarez Morales,No registrado,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+112,Antonio,2026-06-01,Juan Manuel Infante,No registrado,Activo,0.85,1.0,1.0,0.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+113,Saul,2026-06-01,Gustavo Rojas Garcia,No registrado,Activo ,0.8,1.0,1.0,0.0,Victor ,Ya visito la agencia,Si hay solicitud de credito ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+114,Saul,2026-06-01,Mauricio Garcia,No registrado,Activo ,0.8,1.0,1.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+115,Antonio,2026-06-01,Susana Morales Gutierrez,No registrado,Activo,0.8,1.0,0.0,0.0,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+116,Antonio,2026-06-01,Valerio Figueroa,No registrado,Activo ,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+117,Antonio,2026-06-01,Sr Martinez,No registrado,Activo,0.8,1.0,0.0,0.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+118,Antonio,2026-06-01,German Hernandez,No registrado,Activo,0.6,1.0,0.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+119,Saul ,2026-06-01,Oscar,No registrado,Activo,0.8,0.0,1.0,0.0,Daniel ,Ya visito la agencia,Ya esta en proceso,No habia Unidad Demo,Recibio la atencion ,Se asigna en la visita
+120,Antonio,2026-06-01,Alvaro Vega Tobón,No registrado,Activo,0.8,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+121,Nombre Desconocido,2026-06-01,Nombre Desconocido,Agosto,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+122,Antonio,2026-06-01,Manolin Marin  ,No registrado,Activo,0.8,1.0,0.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+123,Ana ,2026-06-01,Abraham Fernandez ,No registrado,Activo,0.7,0.0,0.0,0.0,Mercedes,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+124,Antonio,2026-06-01,Karina Madrid,No registrado,Activo,0.8,1.0,0.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+125,Antonio,2026-06-01,Iram Sanchez,No registrado,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+126,Antonio,2026-06-01,Gilberto,No registrado,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+127,Antonio,2026-06-01,Marta Gomez,No registrado,Activo,0.6,1.0,0.0,0.0,Alan/Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+128,Ana,2026-06-01,Norma Cruz,No registrado,Activo,0.7,1.0,0.0,0.0,Ricardo,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+129,Ana,2026-06-01,Ryan Pacheco ,No registrado,Activo,0.9,1.0,1.0,1.0,Pedro,Ya visito la agencia ,No respondió,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+130,Antonio,2026-06-01,Miguel Edgar Ayllon,No registrado,Activo,0.75,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+131,Antonio,2026-06-01,Jesus Ramirez,No registrado,Activo,0.7,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+132,Ana ,2026-06-01,Jose Frein Romero Vega ,No registrado,Activo,0.7,0.0,0.0,0.0,Alan,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+133,Ana,2026-06-01,Javier Garcia ,No registrado,Activo,0.7,1.0,0.0,0.0,Mauricio ,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+134,Antonio,2026-06-01,Angelica Tejeda,No registrado,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+135,Antonio,2026-06-01,Ariel Macbeth Fierro Lima,No registrado,Activo,0.75,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+136,Antonio,2026-06-01,Robert Lopez,No registrado,Activo,0.75,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+137,Antonio,2026-06-01,Eduardo Solis,No registrado,Activo,0.8,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+138,Ana,2026-06-01,Margarita Rodriguez,No registrado,Finalizado,0.5,0.0,0.0,0.0,Alan,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+139,Ana,2026-06-01,Jhonny Frost ,No registrado,Activo,0.7,1.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,No respondió
+140,Ana ,2026-06-01,Obed Garcia ,No registrado,Activo,0.7,1.0,0.0,0.0,Alan,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+141,Ana ,2026-06-01,Nazario Garcia,No registrado,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+142,Ana,2026-06-01,Edson Jair,No registrado,Activo,0.6,0.0,0.0,0.0,Victor,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+143,Ana,2026-06-01,Oscar Daniel Cuautli LÃÂÃÂÃ,No registrado,Activo,0.7,0.0,0.0,0.0,Victor,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+144,Ana,2026-06-01,Ruben Quiroz ,No registrado,Activo,0.7,1.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya este en proceso ,No respondió,No respondió,No respondió
+145,Antonio,2026-06-01,Hipolito Leandro Funes ,No registrado,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+146,Antonio,2026-06-01,Ruben Rafael Lozada ,No registrado,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+147,Ana,2026-06-01,Fabi?n Zaldivar Arres ,No registrado,Activo ,0.8,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,No respondió
+148,Antonio,2026-06-01,Alejandro Sosa,No registrado,Activo,0.5,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+149,Antonio,2026-06-01,Evangelina Rojas Juarez ,No registrado,Activo,0.8,1.0,1.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+150,Antonio,2026-06-01,Curro,No registrado,Activo,0.8,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,No respondió
+151,Ana,2026-06-01,Gabino Arrieta ,No registrado,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,No respondió
+152,Ana,2026-06-01,Aldo Anzures Martinez,No registrado,Activo,0.8,1.0,0.0,0.0,Ricardo,Ya visito la agencia ,No respondió,Ya realizo prueba de manejo,No respondió,No respondió
+153,Ana ,2026-06-01,antonio pavon garcia,No registrado,Activo,0.5,0.0,0.0,0.0,Marcos,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+154,Ana ,2026-06-01,Andres Felipe ,No registrado,Activo,0.6,0.0,0.0,0.0,Marcos,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+155,Antonio,2026-06-01,Elizabeth  Toledo ,No registrado,Activo,0.8,1.0,0.0,0.0,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+156,Antonio,2026-06-01,JUAN ANTONIO CASTELAN SANTIAGO,No registrado,Activo,0.8,1.0,0.0,0.0,VICTOR,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+157,Antonio,2026-06-01,Luis Angel Ramos,No registrado,Activo,0.6,1.0,0.0,0.0,Jeamy Custom,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+158,Ana ,2026-06-01,Julia María Navarrete Carreño,No registrado,Activo ,0.8,1.0,0.0,0.0,Marcos,Ya visito  la agencia ,No respondió,Ya realizo prueba de manejo ,Recibio la atencion,No respondió
+159,Antonio,2026-06-01,Ozair Viveros,No registrado,Activo,0.8,1.0,0.0,0.0,VICTOR,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+160,Ana,2026-06-01,Yaimy  Guiterrez ,No registrado,Activo,0.5,0.0,0.0,0.0,VICTOR,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+161,Antonio,2026-06-01,Orlando Delgado ,No registrado,Activo,0.5,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+162,Ana,2026-06-01,Rodrigo.e.jim,No registrado,Activo,0.5,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+163,Ana,2026-06-01,"Gabriel  Franco , Vazquez",No registrado,Activo,0.6,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+164,Antonio,2026-06-01,Marisol Luna  Angeles,No registrado,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+165,Antonio,2026-06-01,"Marcos Benjamin Oviedo, Moreno",No registrado,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+166,Ana,2026-06-01,Fernando Pacheco ,No registrado,Activo,0.6,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+167,SEPTIEMBRE,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+168,Antonio,2026-06-01,Johann Arevalo Zaragoza,No registrado,Activo,0.6,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+169,Ana,2026-06-01,Alejandro Valentin,No registrado,Activo,0.6,0.0,0.0,0.0,Alan,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+170,Ana,2026-06-01,"Maria  Dolores , Rueda ",No registrado,Activo,0.6,0.0,0.0,0.0,Ignacio,Videollamada,No respondió,No respondió,No respondió,No respondió
+171,Ana,2026-06-01,Nahum Montiel,No registrado,Activo,0.5,0.0,0.0,0.0,Alan,Videollamada,No respondió,No respondió,No respondió,No respondió
+172,Antonio,2026-06-01,Juan,No registrado,Activo,0.6,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+173,Antonio,2026-06-01,Comercializadora   Y Distribuidora,No registrado,Activo,0.8,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+174,Ana,2026-06-01,Juan Aguilar Moreno ,No registrado,Activo,0.6,0.0,0.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,No respondió,No respondió,No respondió
+175,Ana,2026-06-01,Jorge Luis,No registrado,Activo,0.7,0.0,0.0,0.0,Mercedes,Videollamada,Ya esta en proceso,No respondió,No respondió,No respondió
+176,Ana ,2026-06-01,Ricardo,No registrado,Activo,0.6,0.0,0.0,0.0,Mercedes,Ya visita la agencia,No respondió,No respondió,No respondió,No respondió
+177,Antonio,2026-06-01,Miguel Angel Cuenca Perez,No registrado,Activo,0.8,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+178,Ana,2026-06-01,Eloy Perez Gracia,No registrado,Activo,0.8,1.0,0.0,0.0,Alan,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+179,Antonio,2026-06-01,Oscar Campech,No registrado,Activo,0.6,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+180,Ana,2026-06-01,Levy Carrillo,No registrado,Activo,0.8,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,No respondió,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita3
+181,Antonio,2026-06-01,Monserrat Vivar Garcia,No registrado,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,No respondió,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+182,Ana,2026-06-01,Erwin Castaneda  ,No registrado,Activo,0.7,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+183,Ana ,2026-06-01,Adriel Zenteno,No registrado,Activo,0.7,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+184,Antonio,2026-06-01,Mary Luz Carrillo Eliosa,No registrado,Estatus Desconocido,0.7,1.0,0.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+185,Ana,2026-06-01,Sergio   Contreras ,No registrado,Activo,0.6,0.0,0.0,0.0,Maurico,Videollamada,Ya esta en proceso ,No respondió,No respondió,No respondió
+186,Antonio,2026-06-01,Alejandro Huerta Fuentes,No registrado,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+187,Antonio,2026-06-01,Felipe Sanchez/sigmundo,No registrado,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+188,Antonio,2026-06-01,Salvador Flores,No registrado,Activo,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+189,Antonio,2026-06-01,Marco Antonio  Altamirano Conde ,No registrado,Activo,0.8,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+190,Ana ,2026-06-01,Josue  Heron  Lopez,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion ,Se asigno en la visita 
+191,Ana,2026-06-01,Yoni Maravilla,No registrado,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+192,Antonio,2026-06-01,German Leon Sanchez,No registrado,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+193,Ana ,2026-06-01,Eddie Fb ,No registrado,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+194,Antonio,2026-06-01,ISACHIFT117,No registrado,Activo,0.7,0.0,1.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+195,Antonio,2026-06-01,Gaviota Alvarez,No registrado,Activo,0.8,0.0,1.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+196,Ana,2026-06-01,Carlos Leonel  Bautista  ,No registrado,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+197,Ana,2026-06-01,Marcos  Maldonado ,No registrado,Activo,0.6,0.0,1.0,0.0,Julio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+198,Ana,2026-06-01,"Edmon   Abdala ,  ",No registrado,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+199,Ana ,2026-06-01,Antelmo Flores Guevara,No registrado,Activo,0.8,0.0,0.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+200,Ana,2026-06-01,Jose Eduardo Alonso ,No registrado,Activo,0.6,0.0,1.0,0.0,Aurelio ,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+201,Antonio,2026-06-01,Omar Aguilar Teyssier,No registrado,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+202,Ana ,2026-06-01,Sarai Ruiz,No registrado,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,No respondió,Recibio la atencion,Se asigno en la visita 
+203,Ana ,2026-06-01,Jesus Colorado,No registrado,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+204,Ana ,2026-06-01,"Juan Manuel Mendoza, Hernandez",No registrado,Activo,0.8,0.0,1.0,0.0,Julio,Ya visito la agencia ,Ya esta en proceso ,No respondió,Recibio la atencion,Se asigno en la visita 
+205,Antonio,2026-06-01,Martha Fernanda Garcia,No registrado,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+206,Ana,2026-06-01,Clau,No registrado,Activo,0.5,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+207,Antonio,2026-06-01,Javier Garcia Amaya,No registrado,Activo,0.6,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+208,Ana,2026-06-01,"Joaquin Rodrigo Arias, Rios",No registrado,Activo,0.5,1.0,0.0,0.0,Julio,Ya visito la agencia ,No respondió,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+209,Ana ,2026-06-01,Jesus Monreal,No registrado,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+210,Ana,2026-06-01,Carlos Rodriguez Perez Rodr?guez P?rez ,No registrado,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+211,Ana ,2026-06-01,Julio Cesar Vega ,No registrado,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso ,No respondió,Recibio la atencion ,Se asigna en la visita 
+212,Ana,2026-06-01,Ivan Garcia,No registrado,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+213,Antonio,2026-06-01,Jose De Jesus  Perez,No registrado,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+214,Ana,2026-06-01,Ricardo  Arenas,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+215,Ana,2026-06-01,"Miguel  Irigoyen, ",No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+216,Antonio,2026-06-01,Rene Angel Bellizzi ,No registrado,Activo,0.8,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+217,Ana,2026-06-01,Laura Ivonne Martinez ,No registrado,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+218,Ana,2026-06-01,Alejandro Olivares,No registrado,Activo,0.6,0.0,1.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+219,Antonio,2026-06-01,Felipe  Tepale,No registrado,Activo,0.8,0.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+220,Antonio,2026-06-01,Juan Carlos Miguel ,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso ,No respondió,Recibio la atencion,Se asigno en la visita 
+221,Ana,2026-06-01,Jesus Manuel  Rios,No registrado,Activo,0.6,0.0,1.0,0.0,Mauricio ,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+222,Antonio,2026-06-01,Nicolas Contreras,No registrado,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+223,ana,2026-06-01,"Jose De Jesus  Perez , ",No registrado,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+224,Antonio,2026-06-01,"Jose Miguel  Cosme, Martinez",No registrado,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+225,Ana,2026-06-01,Juan Aguilar Moreno ,No registrado,Activo,0.8,0.0,1.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+226,Ana,2026-06-01,Adriel Zenteno ,No registrado,Activo,0.8,0.0,0.0,0.0,Ana,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+227,Antonio,2026-06-01,Jose Eduardo Toriz Bustos ,No registrado,Activo,0.8,1.0,0.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+228,Ana,2026-06-01,VANNESSA LIZETTE PEREZ CARRANZA,No registrado,Activo,0.7,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+229,Ana,2026-06-01,Juan  Lopez Cruz ,No registrado,Activo,0.8,0.0,0.0,0.0,Ricardo,Ya visito la agencia ,Ya esta en proceso ,No respondió,Recibio la atencion,Se asigno en la visita 
+230,Antonio,2026-06-01,NADIA LOPEZ GABRIEL,No registrado,Activo,0.8,0.0,0.0,1.0,Mauricio,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+231,OCTUBRE,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+232,Ana ,2026-06-01,"Sixto Tito  Guzman, Varela",No registrado,Activo,0.8,1.0,1.0,0.0,Jhosslan,Ya visit la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+233,Antonio,2026-06-01,Rogelio Hernandez,No registrado,Activo,0.95,1.0,1.0,1.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+234,Ana,2026-06-01,Juan Francisco Olvera Alarcon,No registrado,Ativo,0.7,0.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+235,Ana,2026-06-01,Gonzalo Chavez,No registrado,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+236,Ana,2026-06-01,Jesus Gilbert  Cano ,No registrado,Activo,0.6,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita 
+237,Antonio,2026-06-01,Eliseo Huerta,No registrado,Activo,0.7,1.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+238,Antonio,2026-06-01,Javier  Reyes,No registrado,Activo,0.8,0.0,1.0,0.0,Jhosslan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+239,Ana,2026-06-01,Joaquin Moreno,No registrado,Activo,0.8,0.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+240,Ana ,2026-06-01,Jose  Luis   Salazar  ,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+241,Antonio,2026-06-01,Jose Luis Pelcastre,No registrado,Activo,0.75,1.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+242,Antonio,2026-06-01,Jennifer,No registrado,Activo,0.6,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+243,Ana,2026-06-01,Enrique  Enrique  Herrera,No registrado,Activo,0.7,0.0,0.0,0.0,Julio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+244,Ana ,2026-06-01,Ivan Emilio,No registrado,Activo,0.85,0.0,1.0,0.0,Antonio,Ya visito la agencia ,Ya esta en proceso ,No respondió,No respondió,No respondió
+245,Ana,2026-06-01,Jose Abraham Zamora Arenas,No registrado,Activo,0.8,0.0,1.0,0.0,Ricardo,No respondió,No respondió,No respondió,No respondió,No respondió
+246,Antonio,2026-06-01,Gustavo Rojas Garcia,No registrado,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+247,Ana ,2026-06-01,Carmen  Ortega ,No registrado,Activo,0.8,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,No respondió
+248,Ana,2026-06-01,Raul Delgado,No registrado,Activo,0.7,1.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,No respondió
+249,Antonio,2026-06-01,Adan Fuentes ,No registrado,Activo,0.85,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+250,Ana,2026-06-01,Jose Reyes,No registrado,Activo,0.7,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo ,No respondió,No respondió
+251,Antonio,2026-06-01,Humberto Maldonado Garcia,No registrado,Activo,0.65,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+252,Antonio,2026-06-01,Miguel Vasquez San Pablo ,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+253,Ana,2026-06-01,Carolina Ortega,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+254,Antonio,2026-06-01,Alejandro Vivas,No registrado,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+255,Ana ,2026-06-01,Jose Manuel Martinez Rodriguez,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso ,No respondió,No respondió,No respondió
+256,Antonio,2026-06-01,Juan mercado González,No registrado,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+257,Ana,2026-06-01,Martin Magdaleno  Rodriguez ,No registrado,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita
+258,Ana,2026-06-01,Christian Capetillo,No registrado,Activo,0.8,0.0,1.0,1.0,Omar,Ya visito la agencia,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita
+259,Ana,2026-06-01,Jose Manuel Morales Gomez,No registrado,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia ,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita
+260,Ana ,2026-06-01,Orlando  Cuahutle,No registrado,Activo,0.8,0.0,1.0,0.0,Julio,Ya visito la agencia,Ya esta en proceso,No respondió,Recibio la atencion,Se asigno en la visita
+261,Ana,2026-06-01,Joselin Ramirez  Escobar,No registrado,Activo,0.7,0.0,1.0,0.0,Alan,No respondió,No respondió,No respondió,No respondió,No respondió
+262,Antonio,2026-06-01,Rafael Davila,No registrado,Activo,0.65,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+263,Ana,2026-06-01,Felix Luna Baleon,No registrado,Activo,0.8,0.0,1.0,0.0,Jhoslan,Ya visito la agencia,Ya esta en proceso,No respondió,Recibio la atencion,No respondió
+264,Ana,2026-06-01,Luis Munoz ,No registrado,Activo ,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+265,Antonio,2026-06-01,Monserrat Torres,No registrado,Activo,0.6,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+266,Antonio,2026-06-01,Alberto Acocal ,No registrado,Activo,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+267,Ana,2026-06-01,Diego Martinez,No registrado,Activo,0.9,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+268,Ana,2026-06-01,Cesar Cabrera Ortega ,No registrado,Activo,0.7,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+269,Ana,2026-06-01,Diana  Hernandez ,No registrado,Activo,0.8,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+270,Ana,2026-06-01,Francisco  Mier ,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+271,Ana ,2026-06-01,Margarita Diaz Garcia ,No registrado,Activo,0.8,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+272,Antonio,2026-06-01,Teresa Guadalupe  Guillen Venegas,No registrado,Activo,0.75,0.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+273,Antonio,2026-06-01,Adair Lopez,No registrado,Activo,0.6,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+274,Ana,2026-06-01,Jairo Samuel  Pineda Velasquez,No registrado,Activo,0.7,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+275,Ana ,2026-06-01,"Miriam Lizbeth Ruiz, Zamudio",No registrado,Activo,0.85,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+276,Ana,2026-06-01,Imelda  Valencia  Sanchez,No registrado,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+277,Antonio,2026-06-01,"Luis  Jorge , ",No registrado,Activo,0.8,0.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+278,Ana ,2026-06-01,Waldo Pichon ,No registrado,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+279,Ana,2026-06-01,"Taide Cordoba, Sandoval",No registrado,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+280,Antonio,2026-06-01,"Sandi  Hernandez , ",No registrado,Activo,0.85,0.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+281,Ana,2026-06-01,"Adriana  Zarate, Apolinar",No registrado,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+282,Antonio,2026-06-01,Victor  Lorenzana ,No registrado,Activo,0.65,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+283,Antonio,2026-06-01,"Antonio Ojeda  , ",No registrado,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+284,Ana,2026-06-01,Mario Alberto Medrano Mayo,No registrado,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+285,Antonio,2026-06-01,Antonio De Jesus Lima Hernandez,No registrado,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+286,Ana ,2026-06-01,"Antonio  Lopez, ",No registrado,Activo,0.8,0.0,1.0,1.0,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+287,Antonio,2026-06-01,"Todoro Lopez, ",No registrado,Activo,0.7,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+288,Ana,2026-06-01,"Martin Vazquez  , ",No registrado,Activo,0.65,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+289,Antonio,2026-06-01,"Israel Chavez  , ",No registrado,Activo,0.8,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+290,Antonio,2026-06-01,Rocio Lopez Mesa,No registrado,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+291,NOVIEMBRE,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+292,Ana,2026-06-01,Alexis  Palestina ,No registrado,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+293,Ana,2026-06-01,Vanessa  Maza ,No registrado,Activo,0.8,1.0,1.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+294,Ana,2026-06-01,"Hugo Jorge  , ",No registrado,Activo,0.7,1.0,1.0,1.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+295,Ana,2026-06-01,"David  Torres , Ramirez ",No registrado,Activo,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+296,Ana,2026-06-01,Yasmin Galindo ,No registrado,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+297,Ana,2026-06-01,Ricardo  Martinez Tepox ,No registrado,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+298,Ana,2026-06-01,Ari  Valero ,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+299,Ana,2026-06-01,Guadalupe Hernandez ,No registrado,Activo,0.8,1.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+300,Ana,2026-06-01,Humberto Calixto,No registrado,Activo ,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+301,Antonio,2026-06-01,Isidro Ramos,No registrado,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+302,Antonio,2026-06-01,Jose Alberto ,No registrado,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+303,Antonio,2026-06-01,Andrea Hernandez Reyes,No registrado,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+304,Antonio,2026-06-01,Manuel Rodriguez ,No registrado,Activo,0.8,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+305,Antonio,2026-06-01,José Iván Sánchez Pérez,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+306,Antonio,2026-06-01,Octavio Arvea,No registrado,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+307,Ana,2026-06-01,Mario Negrete Juarez ,No registrado,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+308,Ana,2026-06-01,Juan Gonzales ,No registrado,Activo,0.7,0.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+309,Ana,2026-06-01,Marcial   Sanchez   ,No registrado,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+310,Ana,2026-06-01,Jesus Ivan Ibarra Robles,No registrado,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+311,Ana,2026-06-01,Juan Antonio  Cid  Reynoso  ,No registrado,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+312,Ana,2026-06-01,Cesar Cabrera Ortega ,No registrado,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+313,Ana,2026-06-01,Jose De Jesus  Franco Saldana ,No registrado,Activo,0.7,0.0,0.0,0.0,Ricardo ,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+314,Ana,2026-06-01,Jose C Tecnom ,No registrado,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+315,Ana,2026-06-01,Rene Beguerisse Torres,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+316,Antonio,2026-06-01,Jose Ramon Marquez,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+317,Antonio,2026-06-01,Ramsey Tecnom,No registrado,Activo,0.6,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+318,Ana,2026-06-01,Jorge Ariza,No registrado,Activo,0.9,1.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+319,Ana,2026-06-01,"Manuel  Vinaz, ",No registrado,Activo,0.9,1.0,1.0,0.0,Omar,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+320,Antonio,2026-06-01,Efrain Zamudio ,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+321,Antonio,2026-06-01,Rivera Castillo,No registrado,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+322,Ana,2026-06-01,Alan Quintero Munive,No registrado,Activo,0.7,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+323,Ana,2026-06-01,Omar Garcia Vazquez,No registrado,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,No respondió,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+324,Ana ,2026-06-01,Victor Arrroyo Tecnom,No registrado,Activo ,0.7,1.0,0.0,0.0,Pedro,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+325,Ana,2026-06-01,Hugo Jirge Regalado Castaneda,No registrado,Activo,0.6,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+326,Ana,2026-06-01,"Arizbeck  Ortiz, ",No registrado,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+327,Ana,2026-06-01,"David  Torres , Ramirez ",No registrado,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+328,Ana,2026-06-01,Vanessa  Maza ,No registrado,Activo,0.8,0.0,0.0,1.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+329,Antonio,2026-06-01,Hugo Jirge Regalado  Castaneda ,No registrado,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+330,Antonio,2026-06-01,"Jean  Simoni, ",No registrado,Activo,0.7,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+331,Antonio,2026-06-01,Gustavo Rojas ,No registrado,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+332,Ana,2026-06-01,"Rafael  Chocolatl, Cervantes",No registrado,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+333,Ana,2026-06-01,"Dionisio Arce, Martinez",No registrado,Activo,0.8,0.0,0.0,0.0,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+334,Antonio,2026-06-01,Mauel  Ramirez ,No registrado,Activo ,0.7,0.0,1.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+335,Ana,2026-06-01,"Roberto Carlos Parra, Castelan",No registrado,Activo,0.7,1.0,1.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+336,Ana,2026-06-01,Jose Luis Martinez,No registrado,Activo,0.7,0.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+337,Antonio,2026-06-01,"Oscar  Arroyo, ",No registrado,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+338,Antonio,2026-06-01,"Hector Alejandro Gonzalez Tapia  , ",No registrado,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+339,Ana,2026-06-01,Cristian Ocampo ,No registrado,Activo,0.7,1.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+340,Ana,2026-06-01,"Gloria Elena  Benavides, ",No registrado,Activo,0.8,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+341,Antonio,2026-06-01,Efrain Zamudio ,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+342,Antonio,2026-06-01,Carolina  Ortega ,No registrado,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+343,Antonio,2026-06-01,"Hector Miguel  Fernandez , ",No registrado,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+344,DICIEMBRE,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+345,Antonio,2026-06-01,Sr. Elvis fb,No registrado,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+346,Antonio,2026-06-01,Magdaleno,No registrado,Activo,0.8,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+347,Ana ,2026-06-01,Cerezo Honorato,No registrado,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+348,Ana ,2026-06-01,Laura Garcia,No registrado,Activo,0.7,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+349,Ana,2026-06-01,Sr. Francisco Cianca,No registrado,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+350,Antonio,2026-06-01,Jose De Jesus Perez Hernandez,No registrado,Activo,0.8,0.0,0.0,0.0,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No respondió
+351,Ana,2026-06-01,Jose Abraham,No registrado,Activo,0.8,1.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+352,Ana,2026-06-01,Jose Luis Rojas Aguilar,No registrado,Activo,0.8,1.0,0.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+353,Ana,2026-06-01,"Sr. Roberto Loeza
+",No registrado,Activo,0.6,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+354,Ana,2026-06-01,Ale Arellano,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+355,Antonio,2026-06-01,Eugenio De Las Heras B,No registrado,Activo,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+356,Antonio,2026-06-01,Francisco/Maria del Sol,No registrado,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+357,Antonio,2026-06-01,Filiberto González Guarneros,No registrado,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+358,Antonio,2026-06-01,Jose Alberto,No registrado,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+359,Antonio,2026-06-01,Luciano Valdès,No registrado,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+360,Antonio,2026-06-01,Agustin,No registrado,Activo,0.7,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+361,Ana,2026-06-01, MIGUEL SANTAMARIA MORALES,No registrado,Activo,0.9,1.0,0.0,0.0,Cesar ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+362,Ana,2026-06-01,Jose Luis Guevara,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+363,Ana,2026-06-01,Dario Castillo,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+364,Ana,2026-06-01,Sixto Tito,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,No respondió,No respondió,No respondió,No respondió,No respondió
+365,Antonio,2026-06-01,Antonio Sanchez,No registrado,Activo,0.8,1.0,0.0,0.0,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+366,Ana ,2026-06-01,Marco Antonio,No registrado,Activo,0.8,0.0,0.0,0.0,Julio,No respondió,No respondió,No respondió,No respondió,No respondió
+367,Antonio,2026-06-01,Andy,No registrado,Activo,0.8,1.0,0.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+368,Antonio,2026-06-01,Hugo,No registrado,Activo,0.8,1.0,0.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+369,Antonio,2026-06-01,Vicente Acosta,No registrado,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+370,Ana,2026-06-01,Luis Lopez,No registrado,Activo,0.7,0.0,0.0,0.0,Pedro,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+371,Ana,2026-06-01,Lalo Diaz,No registrado,Activo,0.9,1.0,1.0,0.0,Victor,Ya visito la agencia                              ,No respondió,No respondió,No respondió,No respondió
+372,Ana,2026-06-01,Julián García,No registrado,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+373,Antonio,2026-06-01,Rigoberto Salazar,No registrado,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+374,Antonio,2026-06-01,Rodriguez Perslta,No registrado,Activo,0.7,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+375,Antonio,2026-06-01,Diana Paola Cervantes Márquez,No registrado,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+376,Antonio,2026-06-01,Mahe Aguilar,No registrado,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+377,Ana ,2026-06-01,Eliut t,No registrado,Activo,0.8,1.0,0.0,0.0,Julio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+378,Ana,2026-06-01,Edward T,No registrado,Activo,0.7,0.0,1.0,0.0,Julio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+379,Ana ,2026-06-01,Mtro Milton,No registrado,Activo,0.7,0.0,0.0,0.0,Cesar,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+380,Ana,2026-06-01,"Maria Elena  Sanchez , Perez ",No registrado,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+381,Antonio,2026-06-01,Oscar Bautista,No registrado,Activo,0.6,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+382,Ana,2026-06-01,Adrian Paadilla,No registrado,Activo,0.7,1.0,0.0,0.0,Ricardo,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+383,Ana ,2026-06-01,Gregorio Roldan Garcia,No registrado,Activo,0.7,0.0,0.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+384,Antonio,2026-06-01,Manuel Baltazar,No registrado,Activo,0.7,0.0,1.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+385,Antonio,2026-06-01,Carlos Mungia,No registrado,Activo,0.8,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+386,Antonio,2026-06-01,Edith Gonzalez,No registrado,Activo,0.7,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+387,Antonio,2026-06-01,Guillermo Canto,No registrado,Activo,0.7,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+388,Antonio,2026-06-01,Gabriel Meza,No registrado,Activo,0.7,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+389,Antonio,2026-06-01,Jose Miguel,No registrado,Activo,0.7,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+390,Antonio,2026-06-01,Carlos Ignacio,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+391,Antonio,2026-06-01,Carlos,No registrado,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+392,2026-01-01 00:00:00,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+393,Antonio,2026-06-01,Miguel Ramirez,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+394,Antonio,2026-06-01,Marcela Ramírez,No registrado,Activo,0.7,0.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+395,Antonio,2026-06-01,Rafael Lopez,No registrado,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+396,Antonio,2026-06-01,Irma Juarez,No registrado,Activo,0.7,0.0,0.0,0.0,Elizabeth,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+397,Ana,2026-06-01,Jimmy T,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio,No respondió,No respondió,No respondió,No respondió,No respondió
+398,Ana,2026-06-01,Misael  Rodriguez ,No registrado,Activo,0.7,0.0,0.0,0.0,Ignacio,No respondió,No respondió,No respondió,No respondió,No respondió
+399,Ana,2026-06-01,"Cesar  C ,  ",No registrado,Activo,0.9,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+400,Antonio,2026-06-01,Mireya,No registrado,Activo,0.9,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+401,Antonio,2026-06-01,Liliana Alvarez,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+402,Antonio,2026-06-01,Rodrigo P,No registrado,Activo,0.9,0.0,0.0,0.0,Carlos Mejia/ pachuca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+403,Antonio,2026-06-01,Alfonso Ibañez Olmos,No registrado,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+404,Antonio,2026-06-01,Guillermo Hernandez,No registrado,Activo,0.8,0.0,0.0,0.0,Nanacy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+405,Ana,2026-06-01,Roman Aguilar,No registrado,Activo,0.6,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+406,Ana,2026-06-01,NATANAEL OLVERA San Pablo,No registrado,Activo,0.7,1.0,1.0,0.0,Victor,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+407,Ana,2026-06-01,Lau T,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+408,Ana,2026-06-01,Jose Luis Dominguez,No registrado,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+409,Antonio,2026-06-01,Juan FLores,No registrado,Activo,0.7,0.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+410,Antonio,2026-06-01,Omar  Cuautle,No registrado,Activo,0.6,0.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+411,Ana,2026-06-01,Luis Angel l Rojas Lecona,No registrado,Activo,0.7,0.0,0.0,0.0,Cesar,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+412,Ana,2026-06-01,Joe Carrera,No registrado,Activo,0.8,0.0,0.0,0.0,Julio Cesar,No respondió,No respondió,No respondió,No respondió,No respondió
+413,Ana,2026-06-01,ana CAROLINA CAMPO,No registrado,Activo,0.8,1.0,1.0,0.0,Ricardo,No respondió,No respondió,No respondió,No respondió,No respondió
+414,Ana,2026-06-01,Sadrac  Acostha ,No registrado,Activo,0.8,0.0,0.0,0.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+415,Ana,2026-06-01,Ricardo,No registrado,Activo,0.7,0.0,0.0,0.0,Julio,No respondió,No respondió,No respondió,No respondió,No respondió
+416,Antonio,2026-06-01,Alejandra Martinez,No registrado,Activo,0.9,0.0,0.0,0.0,Alan,FORANEA VERACRUZ,Ya esta en proceso,FORANEA VERACRUZ,FORANEA VERACRUZ,Se asigno por SC
+417,Antonio,2026-06-01,Ericka Huerta Viveros,No registrado,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+418,Antonio,2026-06-01,EDGAR ARCOS,No registrado,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+419,Antonio,2026-06-01,Julio Guzmán,No registrado,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+420,Ana,2026-06-01,Sadrac Acosta,No registrado,Activo,0.6,0.0,0.0,0.0,Pedro,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+421,Ana,2026-06-01,Darth V,No registrado,Activo,0.6,0.0,1.0,0.0,Pedro,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+422,Ana,2026-06-01,JUAN VALDEZ,No registrado,Activo,0.7,1.0,0.0,0.0,Alan,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+423,Ana,2026-06-01,Lidio Sandoval Vazquez,No registrado,Activo,0.6,0.0,0.0,0.0,No asignado,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+424,Antonio,2026-06-01,Julio Cesar,No registrado,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+425,Ana,2026-06-01,Luis Aldana,No registrado,Activo,0.8,1.0,0.0,0.0,Carlos Mejia,No respondió,No respondió,No respondió,No respondió,No respondió
+426,Ana,2026-06-01,CARLOS ERNESTO PAREDES,No registrado,Activo,0.8,1.0,0.0,0.0,Julio,No respondió,No respondió,No respondió,No respondió,No respondió
+427,Ana,2026-06-01,Demetrio  Zamara,No registrado,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencua,No respondió,No respondió,No respondió,No respondió
+428,Ana,2026-06-01,Roberto De Jesus Lopez,No registrado,Activo,0.7,0.0,0.0,0.0,Alan,No respondió,No respondió,No respondió,No respondió,No respondió
+429,2026-02-01 00:00:00,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+430,Antonio,2026-06-01,Sergio Cebada,No registrado,Activo,0.8,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+431,Antonio,2026-06-01,Orlando Peralta,No registrado,Activo,0.8,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+432,Antonio,2026-06-01,jose angel varela,No registrado,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+433,Antonio,2026-06-01,ANA MARIA NIETO,No registrado,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+434,Antonio,2026-06-01,Nitzel Zempoaltecatl,No registrado,Activo,0.9,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+435,Antonio,2026-06-01,Sergio ortega,No registrado,Activo,0.9,1.0,1.0,1.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+436,Antonio,2026-06-01,Ramón Antonio,No registrado,Activo,0.6,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+437,Antonio,2026-06-01,Cuautemoc Paramo Prado,No registrado,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+438,Ana,2026-06-01,Josafat Cuapio,No registrado,Activo,0.7,0.0,1.0,0.0,No asignado,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+439,Ana,2026-06-01,Gilberto Fr,No registrado,Activo,0.6,0.0,0.0,0.0,Carlos Hernandez,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+440,Ana,2026-06-01,Sergio Gonzalez,No registrado,Activo,0.8,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+441,Ana,2026-06-01,Adolfo Aguilar,No registrado,Activo,0.7,0.0,0.0,0.0,Victor,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+442,Ana,2026-06-01,Antonio De Jesús Lima Hernández,No registrado,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+443,Antonio,2026-06-01,Cesar M,No registrado,Activo,0.7,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+444,Ana,2026-06-01,Martín Vázquez,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+445,Ana,2026-06-01,Pimentel Eleuterio,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+446,Antonio,2026-06-01,Frida T,No registrado,Activo,0.9,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+447,Ana,2026-06-01,Alicia Avila,No registrado,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+448,Ana,2026-06-01,Carlos Lozano Ramos,No registrado,Activo,0.7,1.0,0.0,0.0,Julio ,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+449,Ana,2026-06-01,MA ELENA ISABEL LEAN BURGOS-,No registrado,Activo ,1.0,1.0,1.0,0.0,AURELIO,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+450,Antonio,2026-06-01,Miguel Galindo Aburto,No registrado,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+451,Antonio,2026-06-01,Omar Reyes,No registrado,Activo,0.75,1.0,0.0,0.0,Julio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+452,Antonio,2026-06-01,Fernando Tellez,No registrado,Activo,0.6,0.0,0.0,0.0,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+453,Antonio,2026-06-01,Rey Hernandez,No registrado,Antonio,0.7,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+454,Ana,2026-06-01,Bety Herrera,No registrado,Activo,0.7,0.0,0.0,0.0,Carlos Hdz,No respondió,No respondió,No respondió,No respondió,No respondió
+455,Ana,2026-06-01,Miguel Grande,No registrado,Activo,0.6,1.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+456,Ana,2026-06-01,Israel Hernández Pérez,No registrado,Activo ,0.6,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+457,Ana,2026-06-01,JOSE LUIS LOYA,No registrado,Activo,0.7,1.0,0.0,0.0,Victor,No respondió,No respondió,No respondió,No respondió,No respondió
+458,Ana,2026-06-01,Brian Michel Villegas,No registrado,Activo,0.7,1.0,0.0,0.0,Alan,No respondió,No respondió,No respondió,No respondió,No respondió
+459,Ana,2026-06-01,Hugo Velazquez,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio,Videollamada,No respondió,No respondió,No respondió,No respondió
+460,Antonio,2026-06-01,Karen,No registrado,Activo,0.6,1.0,0.0,0.0,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+461,2026-03-01 00:00:00,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+462,Antonio,2026-06-01,Rene Osorno,No registrado,Activo,0.6,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+463,Antonio,2026-06-01,Jose Carlos Hernandez,No registrado,Activo,0.8,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+464,Ana,2026-06-01,Oscar Ezpinoza,No registrado,Activo ,0.6,1.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+465,Antonio,2026-06-01,Cesar Chavez,No registrado,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+466,Ana,2026-06-01,Miguel Angel Ramirez Avalos,No registrado,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+467,Antonio,2026-06-01,Ana Paola,No registrado,Activo ,0.8,1.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+468,Ana,2026-06-01,Jack Joaquín Sabina Zárate Juárez,No registrado,Activo,0.7,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+469,Ana,2026-06-01,Adrian Cristobal,No registrado,Activo ,0.7,0.0,1.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+470,Antonio,2026-06-01,PRE HOGAR,No registrado,Activo,0.7,1.0,0.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+471,Antonio,2026-06-01,Maura Gonzalez,No registrado,Activo ,0.6,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+472,Antonio,2026-06-01,Carlos Nava,No registrado,Activo ,0.7,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+473,Ana,2026-06-01,Luis arturo chora lara,No registrado,Activo ,0.7,1.0,0.0,0.0,Julio Cesar,No respondió,No respondió,No respondió,No respondió,No respondió
+474,Ana,2026-06-01,Jose Isidro,No registrado,Activo ,0.7,1.0,0.0,0.0,Julio Cesar,No respondió,No respondió,No respondió,No respondió,No respondió
+475,Antonio,2026-06-01,Sergio,No registrado,Activio,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+476,Antonio,2026-06-01,Athalia,No registrado,Activo ,0.9,0.0,0.0,1.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+477,Antonio,2026-06-01,Alfonso Ramirez,No registrado,Activo,0.8,1.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+478,2026-04-01 00:00:00,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+479,Antonio,2026-06-01,Carlos León,No registrado,Activo ,0.7,0.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+480,Ana,2026-06-01,Jesus P,No registrado,Activo,0.8,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+481,Ana,2026-06-01,JUAN DE DIOS NAVARRETE MENDEZ,No registrado,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,No respondió,No respondió
+482,Ana,2026-06-01,Anyvia Jazmín Cruz Mendoza,No registrado,Activo,0.7,0.0,0.0,0.0,Carlos Mejia,No respondió,No respondió,No respondió,No respondió,No respondió
+483,Antonio,2026-06-01,Christofer,No registrado,Activo,0.65,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+484,Ana,2026-06-01,Simon Vega Aquiahuatl,No registrado,Activo,0.7,0.0,1.0,0.0,Vanny,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+485,Ana,2026-06-01,HECTOR JIMÉNEZ ALDAY,No registrado,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+486,Ana,2026-06-01,Jhonathan Bravo,No registrado,Activo,0.8,1.0,0.0,0.0,Maurico,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+487,Ana,2026-06-01,Cristobal,No registrado,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+488,Antonio,2026-06-01,MARÍA DEL CARMEN GRADOS,No registrado,Activo,0.6,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+489,Antonio,2026-06-01,Alejandro Cruz Adabache,No registrado,Activo,0.8,0.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+490,Antonio,2026-06-01,Juan José castellon,No registrado,Activo,0.8,0.0,0.0,0.0,Ivan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+491,Antonio,2026-06-01,Dianarely Marquez,No registrado,Activo,0.6,0.0,0.0,0.0,Mauricio,SC,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+492,Ana,2026-06-01,Dr Julio Cesar,No registrado,Activo,0.7,0.0,0.0,0.0,Vanny,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+493,Ana,2026-06-01,David Omar Damián González,No registrado,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+494,Ana,2026-06-01,Arturo Delgado García,No registrado,Activo,0.5,0.0,0.0,0.0,Victor,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+495,Ana ,2026-06-01,Mario Moreno,No registrado,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+496,Ana,2026-06-01,Victor Luciano Huerta Acosta Huerta,No registrado,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+497,Ana,2026-06-01,Roberto Aguilar,No registrado,Activo,0.7,0.0,0.0,0.0,Julio ,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+498,Ana,2026-06-01,Rulo Vera,No registrado,Activo,0.7,1.0,0.0,0.0,Nayeli,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+499,Ana,2026-06-01,Rafael Cázares,No registrado,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+500,Ignacio ,2026-06-01,Antonio Escalona ,No registrado,Activo ,0.5,1.0,1.0,0.0,Pedro Gonzalez ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+501,Ignacio ,2026-06-01,Martin Ortuño ,No registrado,Activo ,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+502,Ignacio ,2026-06-01,Salvador Jasso ,No registrado,Activo ,0.3,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,depende del padres ,No respondió,No respondió,No respondió
+503,Ignacio ,2026-06-01,Luis Pelcastre ,No registrado,Activo,0.3,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+504,Ignacio ,2026-06-01,Santa Garcia ,No registrado,Activo,0.5,1.0,1.0,0.0,Carlos Hernandez ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+505,Ignacio ,2026-06-01,Gamaliel Vega ,No registrado,Activo,0.5,1.0,1.0,1.0,Pedro ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+506,Ana,2026-06-01,Victor Hugo Narvaez,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+507,Ana,2026-06-01,EDGAR SILES,No registrado,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+508,Ana,2026-06-01,JAIRO ROJAS,No registrado,Activo,0.7,0.0,0.0,0.0,Pedro ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+509,Ana,2026-06-01,Carlos Perez,No registrado,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+510,Ana,2026-06-01,Arnold perales,No registrado,Activo,0.7,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+511,Ana ,2026-06-01,Said Azpeitia Blanco,No registrado,Activo-,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+512,Ignacio ,2026-06-01,Ricardo Gutierrez,No registrado,Activo-,0.8,1.0,0.0,1.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+513,Ignacio ,2026-06-01,Jorge de gante,No registrado,Activo-,0.8,1.0,1.0,0.0,Pedro ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+514,Ignacio ,2026-06-01,Javier Aguilar ,No registrado,Activo-,0.8,0.0,0.0,0.0,Pedro ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+515,Ignacio ,2026-06-01,Marco Antonio Valencia ,No registrado,Activo-,0.7,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+516,Igancio ,2026-06-01,Rocio Cortes ,No registrado,Activo-,0.5,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+517,Ana ,2026-06-01,Armando Uribe Torres,No registrado,Activo,0.8,1.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+518,Ignacio ,2026-06-01,Elias Dias Salgado ,No registrado,Activo ,0.5,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+519,Ana,2026-06-01,andres Domínguez,No registrado,Activo,0.6,1.0,0.0,0.0,Fatima,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+520,Ana,2026-06-01,Rafael Sanchez,No registrado,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+521,Ana ,2026-06-01,Carlos Herrera,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+522,Ana,2026-06-01,Daniel Morales Hernández,No registrado,Activo,0.7,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+523,Ana,2026-06-01,Jehu Rodriguez,No registrado,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visto la agencia,No respondió,No respondió,No respondió,No respondió
+524,Ignacio ,2026-06-01,Juan Pablo Castellanos ,No registrado,Activo,0.7,0.0,0.0,0.0,Victor Sanchez ,Ya visto la agencia,No respondió,No respondió,No respondió,No respondió
+525,Ana,2026-06-01,Pablo Archundia López,No registrado,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+526,Nombre Desconocido,2026-06-01,JOSE LUIS,No registrado,Activo,0.7,0.0,0.0,0.0,Mauricio,No respondió,No respondió,No respondió,No respondió,No respondió
+527,Nombre Desconocido,2026-06-01,Alejandro Tapia Rueda,No registrado,Activo,0.7,0.0,0.0,0.0,Carlos,No respondió,No respondió,No respondió,No respondió,No respondió
+528,Nombre Desconocido,2026-06-01,Angel Perez,No registrado,Activo,0.8,0.0,0.0,0.0,Vanny,No respondió,No respondió,No respondió,No respondió,No respondió
+529,Nombre Desconocido,2026-06-01,Julio Lopez,No registrado,Activo,0.5,1.0,0.0,0.0,Pedro Gonzalez,No respondió,No respondió,No respondió,No respondió,No respondió
+530,Nombre Desconocido,2026-06-01,Miguel Antonio Fernandez,No registrado,Activo,0.7,0.0,0.0,0.0,Nayeli,No respondió,No respondió,No respondió,No respondió,No respondió
+531,Nombre Desconocido,2026-06-01,Alejandro Sanchez,No registrado,Activo,0.3,0.0,0.0,0.0,Julio Cesar,No respondió,No respondió,No respondió,No respondió,No respondió
+532,Nombre Desconocido,2026-06-01,Cesar Palafox,No registrado,Activo,0.3,0.0,0.0,0.0,Vanny,No respondió,No respondió,No respondió,No respondió,No respondió
+533,Nombre Desconocido,2026-06-01,HUGO BADILLO,No registrado,Activo,0.5,0.0,0.0,0.0,Alvaro,No respondió,No respondió,No respondió,No respondió,No respondió
+534,Nombre Desconocido,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+535,Nombre Desconocido,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+536,Nombre Desconocido,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+537,Nombre Desconocido,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+538,Nombre Desconocido,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+539,2026-05-01 00:00:00,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+540,Ignacio ,2026-06-01,Alan Guerrero ,No registrado,Activo,0.8,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+541,Ignacio ,2026-06-01,Larrisa Oidor ,No registrado,Estatus Desconocido,0.8,0.0,1.0,0.0,Mauricio ,No respondió,No respondió,No respondió,No respondió,No respondió
+542,Ignacio ,2026-06-01,Jorge Duran ,No registrado,Activo ,0.8,0.0,0.0,0.0,Pedro ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+543,Ignacio ,2026-06-01,Hector Reyes ,No registrado,Estatus Desconocido,0.8,1.0,1.0,0.0,Pedro ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+544,Ana ,2026-06-01,Leo Rodríguez,No registrado,Activo,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+545,Ana,2026-06-01,Neftali Lima Sanchez,No registrado,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+546,Igancio ,2026-06-01,Alhdair Bonifacio Ramos ,No registrado,Activo ,0.8,0.0,0.0,0.0,Victor ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+547,Igancio ,2026-06-01,Gary Hernandez ,No registrado,Activo ,0.8,0.0,0.0,0.0,Vanny ,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+548,Ana,2026-06-01,Edgar Alejandro,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,No respondió,No respondió,No respondió,No respondió
+549,Ana,2026-06-01,Celestino Olivares Flores,No registrado,Activo,0.8,1.0,1.0,0.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+550,Ana,2026-06-01,Margarita Martìnez Mirand,No registrado,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,No respondió,No respondió,No respondió,No respondió
+551,Ana,2026-06-01,Armando Uribe Torres-,No registrado,Activo,0.8,0.0,0.0,0.0,Fatima,No respondió,No respondió,No respondió,No respondió,No respondió
+552,Ana,2026-06-01,Jose F,No registrado,Activo,0.8,1.0,0.0,0.0,Julio,No respondió,No respondió,No respondió,No respondió,No respondió
+553,Ana,2026-06-01,Jesus Flores sanchez,No registrado,Activo,0.8,1.0,0.0,0.0,Pedrp,No respondió,No respondió,No respondió,No respondió,No respondió
+554,Ana,2026-06-01,JOSE IGNACIO,No registrado,Activo,0.8,1.0,0.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+555,Ignacio ,2026-06-01,Fernando Duran ,No registrado,Activo,0.8,0.0,0.0,0.0,Pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+556,Ignacio ,2026-06-01,Guillermo Benavides ,No registrado,activo,0.8,1.0,1.0,0.0,Pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+557,Ignacio ,2026-06-01,Hugo Franco ,No registrado,activo,0.8,1.0,0.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+558,Ignacio ,2026-06-01,Luis Enrique Palomares ,No registrado,Activo,0.8,0.0,0.0,0.0,Aurelio ,No respondió,No respondió,No respondió,No respondió,No respondió
+559,Ana ,2026-06-01,Edgar Alejandro,No registrado,Activo,0.8,1.0,1.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+560,Ana,2026-06-01,Eduardo Apodaca Espinosa,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+561,Ana,2026-06-01,Marco xs,No registrado,Activo,0.8,1.0,0.0,0.0,Julio,No respondió,No respondió,No respondió,No respondió,No respondió
+562,Ana,2026-06-01,JOSE SANCHEZ,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+563,Ana ,2026-06-01,Roberto Garcia ,No registrado,Activo,0.8,0.0,1.0,0.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+564,Ana,2026-06-01,Gustavo Melendez,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+565,Ignacio ,2026-06-01,Ruben Lopez ,No registrado,Activo,0.8,1.0,1.0,0.0,Mario ,No respondió,No respondió,No respondió,No respondió,No respondió
+566,Ignacio ,2026-06-01,Jaime trejo ,No registrado,Activo ,0.7,1.0,1.0,0.0,Pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+567,Igancio ,2026-06-01,Alma Sanchez ,No registrado,Activo ,0.8,0.0,0.0,0.0,Pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+568,Ignacio ,2026-06-01,Carlos Cervantes ,No registrado,Activo ,0.8,0.0,0.0,0.0,Mauricio ,No respondió,No respondió,No respondió,No respondió,No respondió
+569,Ignacio ,2026-06-01,Santa Garcia ,No registrado,Activo ,1.0,1.0,1.0,1.0,Carlos ,No respondió,No respondió,No respondió,No respondió,No respondió
+570,Ignacio ,2026-06-01,Raul Miranda ,No registrado,Activo ,1.0,0.0,1.0,1.0,Mauricio ,No respondió,No respondió,No respondió,No respondió,No respondió
+571,Ana ,2026-06-01,Juan Manuel Hernández,No registrado,Activo,0.8,1.0,0.0,0.0,Fatima,No respondió,No respondió,No respondió,No respondió,No respondió
+572,Ana,2026-06-01,Ramon Castro Vite,No registrado,Activo,0.8,1.0,1.0,0.0,Fatima,No respondió,No respondió,No respondió,No respondió,No respondió
+573,Ana,2026-06-01,Ernesto Pachuca,No registrado,Activo,0.8,0.0,1.0,0.0,Carlos Mejia,No respondió,No respondió,No respondió,No respondió,No respondió
+574,Ana,2026-06-01,Adalyn montiel morales,No registrado,Activo,0.8,1.0,0.0,0.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+575,Ana,2026-06-01,EVERT VALVERDE JIMENEZ,No registrado,Activo,0.8,1.0,0.0,0.0,Mario,No respondió,No respondió,No respondió,No respondió,No respondió
+576,Ana,2026-06-01,Benjamin Sanchez,No registrado,Activo,0.8,1.0,1.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+577,Ana,2026-06-01,Quiroz Daniel,No registrado,Activo,0.8,1.0,0.0,0.0,Mauricio,No respondió,No respondió,No respondió,No respondió,No respondió
+578,Ignacio ,2026-06-01,Armando Briones ,No registrado,Activo ,0.5,0.0,1.0,0.0,Pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+579,Ana,2026-06-01,Salomon Sanchyez,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,Vanny,No respondió,No respondió,No respondió,No respondió,No respondió
+580,Ana,2026-06-01,Adriana F,No registrado,Activo,0.8,1.0,0.0,0.0,Carlos Mejia,No respondió,No respondió,No respondió,No respondió,No respondió
+581,Ana,2026-06-01,Angel Romo,No registrado,Estatus Desconocido,0.8,1.0,0.0,0.0,Vanny,No respondió,No respondió,No respondió,No respondió,No respondió
+582,Ignacio ,2026-06-01,Juan Carlos Carreto ,No registrado,Estatus Desconocido,0.5,0.0,1.0,0.0,pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+583,Ignacio ,2026-06-01,Alberto SR,No registrado,Estatus Desconocido,0.5,0.0,1.0,0.0,Pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+584,Ana,2026-06-01,Sebastian F,No registrado,Estatus Desconocido,0.8,1.0,0.0,0.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+585,Ana,2026-06-01,Jorge G,No registrado,Estatus Desconocido,0.8,1.0,1.0,0.0,Victor,No respondió,No respondió,No respondió,No respondió,No respondió
+586,Ignacio ,2026-06-01,Fernando Zárate ,No registrado,Activo ,0.7,1.0,1.0,0.0,Victor ,No respondió,No respondió,No respondió,No respondió,No respondió
+587,Igancio ,2026-06-01,Karla Marquez ,No registrado,Activo ,0.7,0.0,0.0,0.0,Pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+588,Ana,2026-06-01,ansony f,No registrado,Activo,0.7,1.0,0.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+589,Ana,2026-06-01,Jorge A Quiroz,No registrado,Activo,0.7,1.0,0.0,0.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+590,Ignacio ,2026-06-01,Michel Taja ,No registrado,Activo ,0.5,0.0,0.0,0.0,Aurelio ,No respondió,No respondió,No respondió,No respondió,No respondió
+591,Ignacio ,2026-06-01,Jairo Rodriguez ,No registrado,Activo ,0.5,0.0,0.0,0.0,Victro ,No respondió,No respondió,No respondió,No respondió,No respondió
+592,Ignacio ,2026-06-01,Arturo Lopez ,No registrado,Activo ,0.5,0.0,0.0,0.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+593,Ignacio ,2026-06-01,Yolanda Castellanos ,No registrado,Activo ,1.0,0.0,1.0,1.0,Victor ,No respondió,No respondió,No respondió,No respondió,No respondió
+594,Ana ,2026-06-01,Juan Roque,No registrado,Activo ,1.0,1.0,1.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+595,Igancio ,2026-06-01,Maria guadalupe Serrano ,No registrado,Activo ,1.0,0.0,0.0,1.0,Victor ,No respondió,No respondió,No respondió,No respondió,No respondió
+596,Ana,2026-06-01,MARCO ANTONIO CHARTUNI,No registrado,Activo,0.8,0.0,1.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+597,Ana,2026-06-01,Alexey ,No registrado,Activo ,1.0,1.0,1.0,0.0,Ana,No respondió,No respondió,No respondió,No respondió,No respondió
+598,Ana,2026-06-01,Brenda Lucero,No registrado,Activo ,1.0,1.0,1.0,0.0,VICTOR,No respondió,No respondió,No respondió,No respondió,No respondió
+599,2026-06-01 00:00:00,2026-06-01,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+600,Ignacio ,2026-06-01,Francisco Cacho ,No registrado,Activo ,0.5,0.0,0.0,0.0,Mario ,No respondió,No respondió,No respondió,No respondió,No respondió
+601,Ignacio ,2026-06-01,Guillermo Hernandez ,No registrado,Activo ,0.5,1.0,0.0,0.0,Pedro Antonio ,No respondió,No respondió,No respondió,No respondió,No respondió
+602,Ignacio ,2026-06-02,Roberto Quintana ,No registrado,Activo ,0.5,0.0,0.0,0.0,Nayeli ,No respondió,No respondió,No respondió,No respondió,No respondió
+603,Ignacio ,2026-06-03,Karla Marquez ,No registrado,Activo ,1.0,0.0,0.0,1.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+604,Ana ,2026-06-01,Javier Juarez Solano,No registrado,Activo,0.7,1.0,0.0,0.0,Vanny,No respondió,No respondió,No respondió,No respondió,No respondió
+605,Ana,2026-06-03,Ommar Herrera,No registrado,Activo,0.8,1.0,0.0,0.0,Carlos mejia,No respondió,No respondió,No respondió,No respondió,No respondió
+606,Ana,2026-06-04,Andres Cuevas,No registrado,Activo,0.6,0.0,0.0,0.0,Carlos Mejia ,No respondió,No respondió,No respondió,No respondió,No respondió
+607,Ana,2026-06-05,Fernanda Lopez,No registrado,Activo,0.8,1.0,1.0,0.0,Ignacio ,No respondió,No respondió,No respondió,No respondió,No respondió
+608,Ana,2026-06-02,Jose,No registrado,Activo,0.8,0.0,0.0,0.0,Llamada,No respondió,No respondió,No respondió,No respondió,No respondió
+609,Ignacio,2026-06-06,Gregorio Tlapanco ,No registrado,Activo ,0.8,0.0,0.0,0.0,Mario Varela,No respondió,No respondió,No respondió,No respondió,No respondió
+610,Ignacio ,2026-06-12,Ivan Bravo ,No registrado,Activo ,0.5,1.0,1.0,1.0,Mario Varela ,No respondió,No respondió,No respondió,No respondió,No respondió
+611,Ignacio ,2026-06-12,Angelica Briones ,No registrado,Activo ,0.5,0.0,0.0,0.0,Julio Cesar ,No respondió,No respondió,No respondió,No respondió,No respondió
+612,Ignacio ,2026-06-12,Juan Alberto Vargas ,No registrado,Activo ,0.5,1.0,0.0,0.0,Mario Varela ,No respondió,No respondió,No respondió,No respondió,No respondió
+613,Ana,2026-06-17,Moises ,No registrado,Activo,0.7,1.0,0.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+614,Ana,2026-06-10,LUIS CASTILLO,No registrado,Activo,0.5,0.0,0.0,0.0,Fer,No respondió,No respondió,No respondió,No respondió,No respondió
+615,Ana,2026-06-12,Eder Hernandez,No registrado,Activo,0.7,0.0,0.0,0.0,Fatima,No respondió,No respondió,No respondió,No respondió,No respondió
+616,Ana,2026-06-13,Alberto Madrigal,No registrado,Activo,0.6,0.0,0.0,0.0,Pedro Antonio,No respondió,No respondió,No respondió,No respondió,No respondió
+617,Ana,2026-06-06,Jesus Adelfo Hernandez Montiel,No registrado,Activo,0.8,0.0,0.0,0.0,Julio Cesar,No respondió,No respondió,No respondió,No respondió,No respondió
+618,Ana,2026-06-16,Eduardo Delón Páez,No registrado,Activo,0.8,1.0,0.0,0.0,Nayeli,No respondió,No respondió,No respondió,No respondió,No respondió
+619,Ana,2026-06-10,LUIS FERNANDO SANCHEZ QUIROZ,No registrado,Activo,0.7,1.0,0.0,0.0,Mario,No respondió,No respondió,No respondió,No respondió,No respondió
+620,Ana,2026-06-05,Ommar Herrera,No registrado,Activo,0.7,1.0,0.0,0.0,Carlos Mejia,No respondió,No respondió,No respondió,No respondió,No respondió
+621,Ana,2026-06-06,Jaime Davila Baez,No registrado,Activo,0.7,1.0,0.0,0.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+622,Ana,2026-06-19,Jan cx,No registrado,Activo,0.7,0.0,0.0,0.0,Carlos Mejia ,No respondió,No respondió,No respondió,No respondió,No respondió
+623,Ana,2026-06-16,BERNARDO ALCARAZ MORALES,No registrado,Activo,0.8,1.0,0.0,0.0,Nayeli,No respondió,No respondió,No respondió,No respondió,No respondió
+624,Ana,2026-06-07,Juan Carlos García Hernández,No registrado,Activo,0.7,1.0,0.0,0.0,Carlos Mejia,No respondió,No respondió,No respondió,No respondió,No respondió
+625,Ana,2026-06-15,Benjamin Mendez,No registrado,Activo ,0.7,1.0,0.0,0.0,Vanny,No respondió,No respondió,No respondió,No respondió,No respondió
+626,Ana,2026-06-06,Jesus F,No registrado,Activo,0.6,0.0,0.0,0.0,Fer F,No respondió,No respondió,No respondió,No respondió,No respondió
+627,Ana,2026-06-28,Sergio Flores,No registrado,Activo,0.7,0.0,0.0,0.0,Fatima,No respondió,No respondió,No respondió,No respondió,No respondió
+628,Ana,2026-06-28,Sofia polo,No registrado,Activo,0.8,0.0,0.0,0.0,Vanny,No respondió,No respondió,No respondió,No respondió,No respondió
+629,Ignacio ,2026-06-29,Jorge Canche ,No registrado,Activo ,0.5,0.0,0.0,0.0,Ignacio ,No respondió,No respondió,No respondió,No respondió,No respondió
+630,Igancio ,2026-06-28,Octavio Perez ,No registrado,Activo ,0.7,0.0,1.0,0.0,Pedro Antonio ,No respondió,No respondió,No respondió,No respondió,No respondió
+631,Ignacio ,2026-06-28,Adelina Khalikova ,No registrado,Activo ,0.7,1.0,0.0,0.0,Pedro Antonio ,No respondió,No respondió,No respondió,No respondió,No respondió
+632,Ignacio ,2026-06-27,Roberto Luna Rosas ,No registrado,Activo ,0.5,1.0,0.0,1.0,Pedro Antonio ,No respondió,No respondió,No respondió,No respondió,No respondió
+633,Ignacio ,2026-06-19,Miguel Martinez ,No registrado,Activo ,0.5,1.0,0.0,0.0,Nayeli ,No respondió,No respondió,No respondió,No respondió,No respondió
+634,Ignacio ,2026-06-20,Humberto Valencia ,No registrado,Activo ,0.5,0.0,0.0,0.0,Aurelio ,No respondió,No respondió,No respondió,No respondió,No respondió
+635,Ignacio ,2026-06-19,Propescto Orizaba ,No registrado,Activo ,0.5,0.0,0.0,0.0,Nayeli ,No respondió,No respondió,No respondió,No respondió,No respondió
+636,Ana ,2026-06-24,Paul Kehrli,No registrado,Activo,0.6,0.0,0.0,0.0,Pedro Antonio,No respondió,No respondió,No respondió,No respondió,No respondió
+637,Ana ,2026-06-15,Benjamin Mendez,No registrado,Activo ,0.7,0.0,0.0,0.0,Vanny,No respondió,No respondió,No respondió,No respondió,No respondió
+638,Ana,2026-06-06,Reynaldo Cobos ,No registrado,Activo,0.8,1.0,0.0,0.0,Ulises,No respondió,No respondió,No respondió,No respondió,No respondió
+639,Ana,2026-06-20,Arturo Moreno ,No registrado,Activo,0.5,0.0,0.0,0.0,Nayeli,No respondió,No respondió,No respondió,No respondió,No respondió
+640,Ana,2026-06-17,Moises Hdez,No registrado,Activo,0.7,0.0,0.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+641,2027-07-01 00:00:00,2026-06-17,Nombre Desconocido,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+642,Ignacio ,2026-06-04,Arquimedes Rugerio ,No registrado,Activo ,0.6,1.0,0.0,0.0,Nayeli ,No respondió,No respondió,No respondió,No respondió,No respondió
+643,Ignacio ,2026-06-04,Victor Manuel Diaz Ortiz ,No registrado,Activo ,0.6,1.0,0.0,0.0,Cesar Pestaña,No respondió,No respondió,No respondió,No respondió,No respondió
+644,Ana,2026-06-02,Margarita Romero Castillo,No registrado,Activo ,1.0,1.0,1.0,0.0,Pedro Antonio,No respondió,No respondió,No respondió,No respondió,No respondió
+645,Ana,2026-07-07,Eder Chavez,No registrado,Activo ,0.7,1.0,0.0,0.0,Fatima,No respondió,No respondió,No respondió,No respondió,No respondió
+646,Ana,2026-07-07,Alejandro VELAZQUEZ,No registrado,Activo ,0.8,1.0,1.0,0.0,Nayeli,No respondió,No respondió,No respondió,No respondió,No respondió
+647,Ana,2026-07-11,Miguel irigoyen,No registrado,Activo ,0.8,0.0,0.0,0.0,Julio,No respondió,No respondió,No respondió,No respondió,No respondió
+648,Ana,2026-07-08,Jose Hernandez Gonzalez,No registrado,Activo ,0.8,1.0,1.0,0.0,Pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+649,Ignacio ,2026-07-09,Oswaldo Rueda ,No registrado,Activo ,0.8,1.0,1.0,0.0,Pedro ,No respondió,No respondió,No respondió,No respondió,No respondió
+650,Ignacio ,2026-07-10,Arturo Mendez ,No registrado,Activo ,0.8,1.0,0.0,0.0,Mauricio ,No respondió,No respondió,No respondió,No respondió,No respondió
+651,Ana,2026-07-08,Ruben Vargas,No registrado,Acrivo,0.8,1.0,1.0,0.0,Julio,No respondió,No respondió,No respondió,No respondió,No respondió
+652,Ana ,2026-07-04,Edgar Herrera,No registrado,Activo,0.8,1.0,0.0,0.0,Fatima,No respondió,No respondió,No respondió,No respondió,No respondió
+653,Igancio ,2026-07-14,luis Hernandez,No registrado,Activo ,0.5,1.0,0.0,0.0,Nayeli ,No respondió,No respondió,No respondió,No respondió,No respondió
+654,Ignacio ,2026-07-14,Omar Garcia ,No registrado,Activo ,0.5,1.0,0.0,0.0,Nayeli ,No respondió,No respondió,No respondió,No respondió,No respondió
+655,Ignacio ,2026-07-13,Rosaura Mendez Quechol ,No registrado,Activo ,1.0,0.0,0.0,1.0,Mauricio ,No respondió,No respondió,No respondió,No respondió,No respondió
+656,Ana,2026-07-14,Alfonso f,No registrado,Activo,0.7,1.0,0.0,0.0,Nayeli,No respondió,No respondió,No respondió,No respondió,No respondió
+657,Ana,2026-07-10,Lizbeth Garcia,No registrado,Activo,0.7,1.0,0.0,0.0,Julio,No respondió,No respondió,No respondió,No respondió,No respondió
+658,Ana ,2026-07-11,Mike Mora,No registrado,Activo,0.9,0.0,1.0,0.0,Alfredo,No respondió,No respondió,No respondió,No respondió,No respondió
+659,Ana,2026-07-14,Azucena de Jesus machorro arreola,No registrado,Activo,1.0,1.0,1.0,0.0,Nayeli,No respondió,No respondió,No respondió,No respondió,No respondió
+660,Ana,2026-07-13,Jose F,No registrado,Activo,0.8,0.0,0.0,0.0,No asignado,No respondió,No respondió,No respondió,No respondió,No respondió
+661,Ana,2026-07-16,Daniel Padilla,No registrado,Activo,0.9,1.0,1.0,0.0,Fernanda,No respondió,No respondió,No respondió,No respondió,No respondió
+662,Ana,2025-07-16,Juan Carazo Juan Carazo,No registrado,Activo,0.8,0.0,0.0,0.0,Pedro,No respondió,No respondió,No respondió,No respondió,No respondió
+663,Ana,2026-07-16,MARIBEL BARRON,No registrado,Activo,0.9,1.0,0.0,0.0,Mario,No respondió,No respondió,No respondió,No respondió,No respondió
+664,Igancio ,2026-07-17,Bernardo Ayuso ,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,Nayeli ,No respondió,No respondió,No respondió,No respondió,No respondió
+665,Ignacio ,2026-07-16,Victor Garcai ,No registrado,Estatus Desconocido,0.8,0.0,0.0,0.0,Alfredo ,No respondió,No respondió,No respondió,No respondió,No respondió
+666,Ignacio ,2026-07-18,Johancarlo Islas ,No registrado,Activo ,0.5,0.0,0.0,0.0,Julio Cesar ,No respondió,No respondió,No respondió,No respondió,No respondió
+667,Ana,2026-07-16,Margaret Silva Serrano,No registrado,Activo,0.8,1.0,0.0,0.0,Nayeli,No respondió,No respondió,No respondió,No respondió,No respondió
+668,Ignacio ,2026-07-21,Carlos Balderrama ,No registrado,Activo ,0.5,1.0,1.0,1.0,Mario Varela ,No respondió,No respondió,No respondió,No respondió,No respondió
+669,Ignacio ,2026-07-21,Andrés Netzahuatl ,No registrado,Activo ,0.5,0.0,0.0,0.0,Mauricio ,No respondió,No respondió,No respondió,No respondió,No respondió
+670,Ana,2026-07-22,Arat Israel,No registrado,Activo,0.8,1.0,1.0,0.0,Aurelio,No respondió,No respondió,No respondió,No respondió,No respondió
+671,Ana,2026-07-22,Maira Escalante,No registrado,Activo ,0.8,1.0,1.0,0.0,Pedro Antonio,No respondió,No respondió,No respondió,No respondió,No respondió
+672,Ignacio ,2026-07-22,Zaira Macip ,No registrado,Activo ,0.5,0.0,0.0,0.0,Aurelio ,No respondió,No respondió,No respondió,No respondió,No respondió
+673,Ignacio ,2026-07-27,Julio Hernandez ,No registrado,Activo ,0.5,1.0,0.0,0.0,Victor ,No respondió,No respondió,No respondió,No respondió,No respondió
+674,Ignacio ,2026-07-24,Xhunaxhi Vicente ,No registrado,Activo ,1.0,1.0,1.0,1.0,Ignacio,No respondió,No respondió,No respondió,No respondió,No respondió
+675,Ignacio ,2026-07-29,DR Jairo Rodriguez Farias ,No registrado,Activo ,1.0,1.0,1.0,1.0,Victor ,No respondió,No respondió,No respondió,No respondió,No respondió
